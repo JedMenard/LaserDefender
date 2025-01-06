@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ff719e9a3e46864bbd7d8fa09aef5a3, type: 3}
+  m_Name: Wave 1
+  m_EditorClassIdentifier: 
+  pathPrefab: {fileID: 4582439123430069851, guid: 1519d7cc96ac8e744b5eaa48f3f7e49c, type: 3}
+  moveSpeed: 5
+  enemies:
+  - {fileID: 2914779832071913940, guid: d78ba1e6d2199b24f92df221b921ee54, type: 3}
+  - {fileID: 2914779832071913940, guid: d78ba1e6d2199b24f92df221b921ee54, type: 3}
+  - {fileID: 2914779832071913940, guid: d78ba1e6d2199b24f92df221b921ee54, type: 3}
+  - {fileID: 2914779832071913940, guid: d78ba1e6d2199b24f92df221b921ee54, type: 3}
+  - {fileID: 2914779832071913940, guid: d78ba1e6d2199b24f92df221b921ee54, type: 3}
+  waveDuration: 6
